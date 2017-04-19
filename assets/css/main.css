@@ -1,4 +1,24 @@
 body{
   margin: 0;
-  padding: 0;
+  padding: 50px 0;
+  text-align: center;
+  text-align: -ms-center;
+  text-align: -moz-center;
+  text-align: -o-center;
+  text-align: -webkit-center;
+}
+
+.boxMax{
+  width: 200px;
+  height: 200px;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+}
+
+.boxMin{
+  width: 50px;
+  height: 50px;
 }
